@@ -1,5 +1,5 @@
 import { Game } from "./entities/Game";
 
-const newGame = new Game(["Sakra", "Yayas", "Indi", "Aul"], 2);
+const newGame = new Game(["KEKW", "Sadge", "Pepega", "Kappa"], 2);
 
 newGame.play();
